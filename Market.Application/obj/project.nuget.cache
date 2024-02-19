@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gheOXNr/w02IMnVYeWLx0ZfohF0UIV5xYXabwmMK3pxfRExxX4GBP9JE/5gpxIUs4obcX+lDj0lypfzzWcm7ew==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Market\\Market.Application\\Market.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmila\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\gmila\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\gmila\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
